@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe game C++
+Tic-Tac-Toe game C++ code
